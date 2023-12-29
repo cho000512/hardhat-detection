@@ -1,0 +1,6 @@
+train: C:\Minjae\yolov8_custom\train
+val: C:\Minjae\yolov8_custom\val
+
+nc: 1
+
+names: ["hardhat"]
